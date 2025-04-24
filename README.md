@@ -65,7 +65,7 @@
       <li>Material de apoio incluso</li>
       <li>Suporte direto com Naldo Montana</li>
     </ul>
-    <a href="#inscricao" class="cta-button">Quero me inscrever</a>
+    <a href="https://wa.me/244947975906" class="cta-button">Quero me inscrever</a>
   </section>
   <footer>
     <p>© 2025 Frame Criativo | Todos os direitos reservados</p>
